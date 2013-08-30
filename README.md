@@ -1,11 +1,11 @@
-別途、aws.ymlを作成し、
-access_key_id
-secret_access_key 
-を設定する
+別途、aws.ymlを作成し、<br>
+access_key_id<br>
+secret_access_key<br> 
+を設定する<br>
+<br><br>
+<br>
 
-
-
---------aws.yml--------
-access_key_id: "******"
-secret_access_key: "********"
-ec2_endpoint: ec2.ap-northeast-1.amazonaws.com
+--------aws.yml--------<br>
+access_key_id: "******"<br>
+secret_access_key: "********"<br>
+ec2_endpoint: ec2.ap-northeast-1.amazonaws.com<br>
